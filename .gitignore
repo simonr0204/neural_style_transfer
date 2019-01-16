@@ -1,8 +1,6 @@
+# Ignore everything
+*
 
-\.ipynb_checkpoints/
-
-content/
-
-results/
-
-styles/
+# But not these files...
+!style_transfer.ipynb
+!.gitignore
